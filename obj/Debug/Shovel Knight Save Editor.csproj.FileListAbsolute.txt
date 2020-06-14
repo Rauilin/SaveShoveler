@@ -1,0 +1,22 @@
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Debug\Shovel Knight Save Editor.exe.config
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Debug\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Debug\Shovel Knight Save Editor.pdb
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel Knight Save Editor.csprojAssemblyReference.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel_Knight_Save_Editor.MainForm.resources
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel_Knight_Save_Editor.Properties.Resources.resources
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel Knight Save Editor.csproj.GenerateResource.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel Knight Save Editor.csproj.CoreCompileInputs.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel Knight Save Editor.pdb
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Debug\Shovel_Knight_Save_Editor.about.resources
+C:\Users\Beta\source\repos\Save Shoveler\bin\Debug\Shovel Knight Save Editor.exe.config
+C:\Users\Beta\source\repos\Save Shoveler\bin\Debug\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Save Shoveler\bin\Debug\Shovel Knight Save Editor.pdb
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel Knight Save Editor.csprojAssemblyReference.cache
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel_Knight_Save_Editor.about.resources
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel_Knight_Save_Editor.MainForm.resources
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel_Knight_Save_Editor.Properties.Resources.resources
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel Knight Save Editor.csproj.GenerateResource.cache
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel Knight Save Editor.csproj.CoreCompileInputs.cache
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Save Shoveler\obj\Debug\Shovel Knight Save Editor.pdb

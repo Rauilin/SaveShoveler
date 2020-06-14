@@ -1,0 +1,11 @@
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Release\Shovel Knight Save Editor.exe.config
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Release\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\bin\Release\Shovel Knight Save Editor.pdb
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel_Knight_Save_Editor.MainForm.resources
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel_Knight_Save_Editor.Properties.Resources.resources
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel Knight Save Editor.csproj.GenerateResource.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel Knight Save Editor.csproj.CoreCompileInputs.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel Knight Save Editor.exe
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel Knight Save Editor.pdb
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel Knight Save Editor.csprojAssemblyReference.cache
+C:\Users\Beta\source\repos\Shovel Knight Save Editor\obj\Release\Shovel_Knight_Save_Editor.about.resources

@@ -1,0 +1,13 @@
+======== Save Shoveler ChangeLog 00.06.84 - 4.1 ========
+	- Added Save Slots box w/ Names
+	- Made it harder to break editor and tried to make it more user-friendly
+	- Added Changelog file (you're reading it! Hello!)
+
+	- Shovel knight now shows Sub-weapons
+	- Shovel knight now shows Armor
+	- Shovel Knight has new ichor chalice editor
+	- Removed Herobrine
+	
+======== What's Coming up next ========
+	- Plague Knight Armor
+	- Plague Knight Items
